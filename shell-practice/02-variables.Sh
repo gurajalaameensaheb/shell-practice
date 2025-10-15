@@ -1,7 +1,7 @@
 #!/bin/bash
 
 name1=ameen
-name2=sami
+name2=mamu
 name3=loves
 
-echo "$name1 $name3 $name3"
+echo "$name1 $name3 $name2"
